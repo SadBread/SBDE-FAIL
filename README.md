@@ -1,2 +1,2 @@
 # Sad-Bread-Deltarune-Engine
-Custom Deltarune Engine in gamemaker
+Fan made Deltarune-Engine in gamemaker studio
